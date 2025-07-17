@@ -10,3 +10,9 @@ the space bar uses three key switches in parallel with two 3d-printed standoffs 
 
 ![standoff 3d view](/hitek_adapter/spacebar_standoff.png)![standoff view](/hitek_adapter/spacebar_standoff.jpg)
 
+the PCB was made in standard 1.6mm thickness, so in order to make the keyboard stiffer a second PCB was placed below and the pin holes drilled out accordingly:
+
+![doubled PCB](/PCB/PCB_doubled.jpg)
+
+
+
