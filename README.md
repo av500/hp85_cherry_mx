@@ -1,6 +1,6 @@
  # HP 85 keyboard PCB using Cherry MX key switches
 
-![PCB image](/PCB/HP85_keyboard_PCB_3d.png)
+![PCB image](/hp85_keyboard_pcb.jpg)
 
 using the orignal keycaps with 3d-printerd adapters to connect the Hitek caps to the Cherry MX stem pattern:
 
