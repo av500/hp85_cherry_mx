@@ -2,6 +2,8 @@
 
 ![PCB image](/hp85_keyboard_pcb.jpg)
 
+(more images here: https://photos.app.goo.gl/D5baQ3GsZ5nenAsS6)
+
 using the orignal keycaps with 3d-printerd adapters to connect the Hitek caps to the Cherry MX stem pattern:
 
 ![adapter top view](/hitek_adapter/adapter_top.png)![adapter bottm view](/hitek_adapter/adapter_bottom.png)
